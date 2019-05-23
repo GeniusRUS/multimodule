@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">repository</string>
+    <string name="string_template">Шутка про Чака Норриса:\n\n%1$s</string>
+</resources>

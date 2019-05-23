@@ -1,0 +1,1 @@
+include ':app', ':repository', ':feature_random_joke', ':core'
